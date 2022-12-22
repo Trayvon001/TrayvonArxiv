@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
 limit_days = 14
-cache_url = "https://trayvon.github.io/TrayvonArxiv/cache.json"
+cache_url = "https://trayvon001.github.io/TrayvonArxiv/cache.json"
 
 [[sources]]
 limit = 150
